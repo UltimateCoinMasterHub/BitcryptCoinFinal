@@ -1,0 +1,9 @@
+Building Bitcrypt
+
+See doc/readme-qt.rst for instructions on building Bitcrypt QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitcrypt.
+
+See doc/build-*.txt for instructions on building bitcryptd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitcrypt.
